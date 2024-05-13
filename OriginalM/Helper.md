@@ -35,7 +35,7 @@ This project is a web-based application aimed at managing medical records and ap
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/.git
+   git clone https://github.com/shubham133508/.git
 
 
 2. Install dependencies for both frontend and backend:
